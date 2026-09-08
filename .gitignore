@@ -1,3 +1,6 @@
+cifar10/
+data/archive/pride_and_prejudice.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -217,3 +220,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/archive/pride_and_prejudice.txt
