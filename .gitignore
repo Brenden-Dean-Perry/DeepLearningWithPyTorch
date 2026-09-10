@@ -1,5 +1,6 @@
 cifar10/
 data/archive/pride_and_prejudice.txt
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
